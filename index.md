@@ -8,7 +8,7 @@
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="2-bloger/css/style.css">
 </head>
 
 <body>
